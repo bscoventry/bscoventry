@@ -2,7 +2,7 @@
 and optical imaging. I also do work in closed-loop, AI based neuromodulation. Feel free to reach out for any questions regarding my work or repositories!
 
 - I'd be open to collaborations in neural data analysis and AI methods in neuroscience
-- Email: coventry@wisc.edu
+- Email: coventry 'at' wisc.edu
 
 <!---
 bscoventry/bscoventry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
